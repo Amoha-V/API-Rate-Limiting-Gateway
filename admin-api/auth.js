@@ -1,0 +1,1 @@
+// This file manages authentication for the admin API, including user login and session management.
