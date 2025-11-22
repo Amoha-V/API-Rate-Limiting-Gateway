@@ -17,7 +17,7 @@ api-gateway
 │   ├── server.js        # Entry point for the admin API
 │   ├── config.js        # Configuration settings for the admin API
 │   ├── auth.js          # Authentication for the admin API
-│   └── package.json file     # npm configuration for the admin API
+│   └── package.json      # npm configuration for the admin API
 ├── frontend
 │   ├── src
 │   │   ├── App.js       # Main component of the frontend application
